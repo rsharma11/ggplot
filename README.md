@@ -1,2 +1,2 @@
 # ggplot 
-Give some information
+Give some more information
